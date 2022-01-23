@@ -7,5 +7,14 @@ Only compatible with Nix. It will read all the "fetchers" applications in nixpkg
 Usage:
 
 ```
-nix run github:/viperML/multifetch
+nix run github:viperML/multifetch
 ```
+
+
+<!-- Insert image multifetch.png centered -->
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="multifetch.png" width="100%"/>
+  </div>
+</div>
